@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+body{
+	background-color: #5555;
+}
+.moviePic{
+	opacity: 60%;
+	display: block;
+	margin: auto;
+}
+.card{
+	border: 1px solid black;
+}
+.movieDetail{
+	text-align: justify;
+	position: relative;
+	font-size: large;
+	top: 15px;
+	width: 80%;
+	display: black;
+	margin: auto;
+}
+.main{
+	overflow: hidden;
+	padding: 25px;
+}
